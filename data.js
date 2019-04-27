@@ -2,7 +2,7 @@ module.exports = {
   package: "robinmetral",
   name: {
     first: "Robin",
-    last: "Métral"
+    last: "Metral"
   },
   website: "https://www.robinmetral.com",
   location: {
