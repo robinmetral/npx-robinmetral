@@ -9,7 +9,8 @@ module.exports = {
     city: "Berlin",
     country: "Germany"
   },
-  description: `I make React web apps and websites 🚀 You'll usually find me on GitHub and/or in coffee shops ☕`,
+  description: `I make React web apps and websites 🚀
+  You'll usually find me on GitHub and/or in coffee shops ☕`,
   links: [
     {
       label: "GitHub",
