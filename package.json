@@ -1,6 +1,6 @@
 {
   "name": "robinmetral",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Robin Métral",
   "main": "index.js",
   "bin": {
