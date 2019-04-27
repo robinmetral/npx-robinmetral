@@ -1,0 +1,32 @@
+{
+  "name": "robinmetral",
+  "version": "1.0.0",
+  "description": "Robin Métral",
+  "main": "index.js",
+  "bin": {
+    "robinmetral": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contact",
+    "Robin Métral",
+    "business card"
+  ],
+  "author": "Robin Métral",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinmetral/npx-robinmetral.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robinmetral/npx-robinmetral/issues"
+  },
+  "homepage": "https://github.com/robinmetral/npx-robinmetral",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "cfonts": "^2.3.0",
+    "chalk": "^2.4.1"
+  }
+}
