@@ -14,7 +14,7 @@ module.exports = {
   links: [
     {
       label: "GitHub",
-      url: "https://instagram.com/robinmetral"
+      url: "https://github.com/robinmetral"
     },
     {
       label: "Twitter",
